@@ -9,7 +9,7 @@
 ---
 
 ## 📸 Preview
-![Futuristic Login](https://images.alphacoders.com/100/1009144.jpg)
+#DEMO PAGR: https://restaurant-support-chatbot.vercel.app/
 *(Interface features high-end Anime-themed Glassmorphism, interactive charts, and real-time chat)*
 
 ---
