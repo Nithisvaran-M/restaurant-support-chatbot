@@ -10,7 +10,21 @@
 
 ## 📸 Preview
 #DEMO PAGR: https://restaurant-support-chatbot.vercel.app/
+
+
+<img width="1366" height="606" alt="ONE" src="https://github.com/user-attachments/assets/898632b5-7758-4c6a-ae9b-14a1a527bb4e" />
+
 *(Interface features high-end Anime-themed Glassmorphism, interactive charts, and real-time chat)*
+##USER
+<img width="641" height="581" alt="ONE ONE" src="https://github.com/user-attachments/assets/c0e3fb5f-7cfe-4c30-85dc-adef95f601d0" />
+<img width="492" height="318" alt="ONETHREE" src="https://github.com/user-attachments/assets/973f4a9d-4cf6-4c27-ba77-c2e62a7ae365" />
+<img width="436" height="483" alt="ONE TWO" src="https://github.com/user-attachments/assets/b29f1628-3be0-43fa-bb69-475fed254446" />
+
+
+##ADMIN
+<img width="678" height="548" alt="TWO" src="https://github.com/user-attachments/assets/d28a8278-aeea-47bb-9e3e-b92fbb847ccf" />
+<img width="718" height="378" alt="TWOTHREE" src="https://github.com/user-attachments/assets/da8f722b-2af3-4ee7-b4cd-8b6a2c2112f9" />
+<img width="660" height="459" alt="TWO FOUR" src="https://github.com/user-attachments/assets/75d415b7-d4d2-4cc5-958e-e064c2974caa" />
 
 ---
 
