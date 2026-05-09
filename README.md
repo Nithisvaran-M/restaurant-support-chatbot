@@ -1,4 +1,3 @@
-````md
 <!-- ========================================================= -->
 <!-- 🚀 CYBERBOT PRO AI -->
 <!-- ========================================================= -->
@@ -389,4 +388,3 @@ If you found this project useful:
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0c29,50:302b63,100:24243e" width="100%" />
 
 </div>
-````
